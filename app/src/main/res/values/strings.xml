@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GrabTheCrab</string>
+    <string name="onboarding">You have a unique chance to test your logic and intuition, and maybe your knowledge! Choose a match and try to guess the outcome. If you can\'t choose a match by yourself, our great random function does it for you!</string>
+    <string name="_0">0</string>
+    <string name="time_s_up">Time\'s up!</string>
+    <string name="good_job">Good job!</string>
+    <string name="grab_the_crab">Grab the crab</string>
+    <string name="rules">Assemble in sequence a group of crabs. Be careful, some are are so sociable that they give themselves away!</string>
+
 </resources>
